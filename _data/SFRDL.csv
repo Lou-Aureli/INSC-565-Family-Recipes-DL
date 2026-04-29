@@ -1,51 +1,426 @@
-objectid,filename,title,creator,author,date,date_created,date_written,description,subject,location,latitude,longitude,donor,type,format,language,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript,Notes
-sfrdl_2026_0001_0001,sfrdl_2026_0001_0001.pdf,Apricot oatmeal bars,,"Suss, Raymonde",1997,1997-1998,,"Handwritten, cursive recipe on printer paper for apricot oatmeal bars. Note that the recipe actually requires baking soda rather than baking powder as written.",Dessert; Vegetarian,"Davidson County, Tennessee; Nashville, Tennessee",36.1540,-86.7610,"Crews, Emma",Text,application/pdf,eng,image,objects/sfrdl_2026_0001_0001.pdf,objects/small/sfrdl_2026_0001_0001_sm.jpg,objects/thumbs/sfrdl_2026_0001_0001_th.jpg,A handwritten recipe for apricot oatmeal bars.,/objects/SFRDL-2026-0001-0001-text.txt,
-sfrdl_2026_0001_0002,sfrdl_2026_0001_0002.pdf,Apple julep,Apple Barn Cider Mill & General Store,"Crews, Emma",2012,2012-2013,,"Handwritten, cursive recipe on lined paper for apple julep.",American South; Drink; Gluten-Free; Vegan; Vegetarian,"Sharon, Tennessee; Weakley County, Tennessee",36.2333,-88.8167,"Crews, Emma",Text,application/pdf,eng,image,objects/sfrdl_2026_0001_0002.pdf,objects/small/sfrdl_2026_0001_0002_sm.jpg,objects/thumbs/sfrdl_2026_0001_0002_th.jpg,"A handwritten recipe for apple julep. At the bottom of the page, a heart, pitcher of juice, and stick figure saying ""mmmm"" represent the idea ""I love apple julep.""",/objects/SFRDL-2026-0001-0001-text.pdf,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
+objectid,filename,title,creator,author,date,date_created,date_written,description,yield,cook_time,subject,location,latitude,longitude,donor,type,format,language,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript,Notes (DELETE)
+sfrdl_0001_0001_apricot_oatmeal_bars,sfrdl_0001_0001_apricot_oatmeal_bars.pdf,Apricot oatmeal bars,,"Suss, Raymonde",1997,1997-1998,,"Handwritten, cursive recipe on printer paper for apricot oatmeal bars. Note that the recipe actually requires baking soda rather than baking powder as written.",1 pan,35 minutes,Dessert; Vegetarian,"Davidson County, Tennessee; Nashville, Tennessee",36.1540,-86.7610,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0001_apricot_oatmeal_bars.pdf,/objects/small/SFRDL-2026-0001-0001_sm.jpg,/objects/sfrdl-2026-0001-0001.pdf,A handwritten recipe for apricot oatmeal bars.,"Apricot Oatmeal bars
+
+1 1/2 sticks of butter
+1 1/2 cups of oats
+1 1/2 cups of flour
+1 cup of brown sugar
+1 teaspoon baking powder
+mix it up good
+
+Press 3/4 of mixture in
+large baking pan
+1 jar of apricot jam
+spread on top but don't
+let it touch the edges
+Cover with rest of mixture
+bake at 350° for 35
+minutes",
+sfrdl_0001_0002_apple_julep,sfrdl_0001_0002_apple_julep.pdf,Apple julep,Apple Barn Cider Mill & General Store,"Crews, Emma",2012,2012-2013,,"Handwritten, cursive recipe on lined paper for apple julep.",6.25 cups,,American South; Drink; Gluten-Free; Vegan; Vegetarian,"Sharon, Tennessee; Weakley County, Tennessee",36.2333,-88.8167,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0002_apple_julep.pdf,/objects/small/SFRDL-2026-0001-0002_sm.jpg,,"A handwritten recipe for apple julep. At the bottom of the page, a heart, pitcher of juice, and stick figure saying ""mmmm"" represent the idea ""I love apple julep.""","Apple Julep
+
+Ingredients:
+1 quart unsweetend apple juice, chilled
+1 cup unsweetend pinapple juice, chilled
+1 cup orange juice, chilled
+1/4 cup lemon juice, chilled
+(optional) fresh mint sprigs
+
+Combine first 4 ingredients with ice cubes;
+mix well. Garnish serving with mint.
+
+Yields: 6-1/4 cups
+
+[Drawings of a heart, a pitcher with liquid, and a smiling stick figure saying ""mmmmmmm"".]
+
+This is an Apple Barn recipe.",
+sfrdl_0001_0003_pound_cake,sfrdl_0002_0001_pound_cake.pdf,Pound Cake,,"Horne, Gladys",1951,1951,,"Handwritten, cursive recipe on lined paper for pound cake",1 cake pan,1 hour and 15 minutes,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0003_pound_cake.pdf,,,"Handwritten, cursive recipe on lined paper for pound cake","Recipe: Pound Cake
+Source: Nannie
+
+1st 2 sticks of butter (soft)
+½ cup Crissco
+3 cups sugar
+[in margins: cream]
+
+2nd 5 eggs (add 1 egg at a
+time)
+
+3rd 3 cups of flour
+½ teas baking powder
+½ teas salt
+[in margins: sift together]
+
+4th 1 ¼ cups of milk
+
+5th 2 teas vanilla
+
+350° - little more than
+an hr. 1 hr. 15 min.",
+sfrdl_0001_0004_tennessee_sin,sfrdl_0002_0002_tennessee_sin.pdf,Tennessee Sin,,"Ashley, Debbie",2000,2000-2024,,Handwritten recipe on lined paper for tennessee sin,1 pan,30 minutes,Appetizer,"Richmond, Virginia; Henrico County, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0004_tennessee_sin.pdf,,,Handwritten recipe on lined paper for tennessee sin,"Tennessee Sin
+2 loaves of French bread
+1 8oz package of cream cheese
+1 8oz carton of sour cream
+2 cups shredded cheese
+½ cup chopped ham
+⅓ cup chopped green onion
+⅓ cup chopped green onion (repeated)
+¼ teasp of Worchestershire sauce
+
+Slice off the french bread loaf and hollow out bottom
+Cut top into inch pieces - baking sheet - 350 for 12 minutes
+Beat cream cheese until smooth add sour cream - beat until creamy
+Stir in cheddar cheese + next 4 ingred. Put in bread shell/ Wrap in foil
+Bake 350° 30 minutes",
+sfrdl_0001_0005_chocolate_eclair_cake,sfrdl_0002_0003_chocolate_eclair_cake.pdf,Chocolate Eclair Cake,,"Johnson, Laura",1965,1965,,"Handwritten, cursive recipe on lined paper for chocolate eclair cake",1 pyrex dish,,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0005_chocolate_eclair_cake.pdf,,,"Handwritten, cursive recipe on lined paper for chocolate eclair cake","Chocolate Eclair Cake
+
+Line bottom of pyrex dish with Graham crackers.
+Beat - 2 pkg. inst. vanilla pudding, 3 cups milk
+Stir in 8oz cool whip
+Put ½ over crackers.
+Make another layer of crackers.
+More pudding.
+Another layer of crackers.
+Put chocolate frosting on top of crackers.",
+sfrdl_0001_0006_texas_caviar,sfrdl_0002_0004_texas_caviar.pdf,Texas Caviar,,"Ashley, Debbie",2011,2011,,Handwritten recipe written on lined paper for texas caviar,1 dish,,Appetizer,"Richmond, Virginia; Henrico County, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0006_texas_caviar.pdf,,,,"Texas Caviar
+
+1 (14oz) can of Blackeyed peas
+1 (14oz) can of shoepeg corn
+1 (14oz) can of Black beans
+1 med green pepper
+1 small red onion
+2 to 3 Roma tomatoes
+1 (8oz) bottle of Ken’s Italian Dressing
+1 Tablespoon of cilantro (chopped)
+
+Drain:  1. Peas, corn and black beans
+            2. Course chop the pepper and onion
+            3. Cube tomato - (Remove seeds)
+Place ALL ingredients in a bowl and ADD DRESSING
+CHILL OVERNIGHT
+SPRINKLE with cilantro
+
+SERVE with scoops",
+sfrdl_0001_0007_pumpkin_cake,sfrdl_0002_0005_pumpkin_cake.pdf,Pumpkin Cake,,"Johnson, Laura",1984,1984,,"Handwritten, cursive recipe written on lined paper for pumpkin cake",1 cake pan,45 minutes,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0007_pumpkin_cake.pdf,,,"Handwritten, cursive recipe written on lined paper for pumpkin cake","Pumpkin Cake
+
+2 cups sugar
+4 eggs
+1 cup oil
+2 cups plain flour
+2 teasp cinnamon
+2 teasp baking soda
+½ teasp salt
+1 can pumpkin
+
+Mix eggs and sugar. Beat well. Add oil, spices, baking soda and salt (+flour). Beat well then add pumpkin and mix well. Bake in greased tube pan at 350° for 45 minutes to 1 hour.
+
+Icing: 8 oz cream cheese + 1 stick butter
+         1 box confectionary sugar
+         2 teasp vanilla",
+sfrdl_0001_0008_boiled_custard,sfrdl_0002_0006_boiled_custard.pdf,Boiled Custard,,"Johnson, Laura",1940,1940,,Typed recipe for boiled custard,1 dish,,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0008_boiled_custard.pdf,,,Typed recipe for boiled custard,"Boiled Custard
+
+½ gallon milk
+1 ¼ cups sugar
+6 eggs: Beat.
+Mix well beaten eggs into sugar: Blend.
+Heat Milk in pan over water (milk should not boil but get very hot)
+Add sugar and eggs until coats spoon.
+Add 5 more minutes.
+Take off heat.
+Add 1 teaspoon vanilla.",
+sfrdl_0001_0009_buttermilk_pie,sfrdl_0002_0007_buttermilk_pie.pdf,Buttermilk Pie,,"Johnson, Laura",1997,1997,2008,Typed recipe for buttermilk pie,1 pie dish,1 hour,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0009_buttermilk_pie.pdf,,,Typed recipe for buttermilk pie,"Buttermilk Pie
+Laura “Granny” Johnson
+
+1 Stick Melted Butter
+1 ½ Cups Sugar
+4 Tablespoons Flour
+2 Eggs
+1 Cup Buttermilk
+1 Tablespoon Lemon Extract
+
+Prepare unbaked pie crust.
+Combine all ingredients and pour into pie shell.
+Bake at 350 degrees for 1 hour.",
+sfrdl_0001_0010_hotel_roanoke_spoonbread,sfrdl_0002_0008_hotel_roanoke_spoonbread.pdf,Hotel Roanoke Spoonbread,Hotel Roanoke,"Ashley, Debbie",2008,,,Typed recipe for Hotel Roanoke spoonbread,1 dish,30 to 40 minutes,Side Dish,"Roanoke, Virginia; Roanoke County, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0010_hotel_roanoke_spoonbread.pdf,,,Typed recipe for Hotel Roanoke spoonbread,"Hotel Roanoke Spoonbread
+
+1 ½ Cups Corn Meal
+5 Eggs
+½ Stick Butter
+2 Cups Milk
+1 Teaspoon Sugar
+1 ½ Cups Boiling Water
+1 ⅓ Teaspoon Baking Powder
+
+Preheat Oven to 350 degrees.
+Mix Corn Meal, salt and sugar together. Scald with boiling water.
+Add melted butter.
+Beat eggs and add milk to eggs.
+Combine two mixtures and add baking powder.
+Pour into baking pan and bake 30-40 minutes at 350 degrees.
+Serves 10.",
+sfrdl_0001_0011_bread_pudding,sfrdl_0002_0009_bread_pudding.pdf,Bread Pudding,,"Johnson, Laura",1985,1985,,"Handwritten, cursive recipe written on paper for bread pudding",1 dish,1 hour,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0011_bread_pudding.pdf,,,"Handwritten, cursive recipe written on paper for bread pudding","Bread Pudding
+Beat 4 whole eggs lightly
+Add 1 qt. of milk
+½ cup sugar
+4 teas. of _____
+Beat well and add ½ cup seedless raisins
+Pour in a well buttered pan about 6x8 in.
+Break 3 slices of buttered __ into pieces and put on top of mixture
+Place the pan into a longer pan of warm water and bake in a moderate oven about 1 hour or until done
+Serve with a clear sauce over",
+sfrdl_0001_0012_banana_bread,sfrdl_0002_0010_banana_bread.pdf,Banana Bread,,"Johnson, Laura",1957,1957,,"Handwritten, cursive recipe written on lined paper for banana bread",1 bread pan,1 hour,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0012_banana_bread.pdf,,,"Handwritten, cursive recipe written on lined paper for banana bread","Banana Bread
+
+Cream 1 cup sugar with ½ cup butter
+Add 3 eggs
+3 bananas (mashed)
+
+Mix
+2 cups flour
+½ cup nuts
+½ cup raisins
+1 teas soda
+
+Bake 350 in loaf tin
+One hour",
+sfrdl_0001_0013_beanie_bake,sfrdl_0001_0013_beanie_bake.pdf,Beanie bake,"Elam, Mary Frances ""Dink"" Doland",,,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0013_beanie_bake.pdf,,,,"Here's what's cookin': Beanie Bake Serves:
+Recipe from the kitchen of: Mama Dink
+
+1 lb. ground beef -
+1/4 cup chop green pepper
+4 medium onion chop -
+1/4 cup chop celery (thin)
+
+Cook cold meat in thick
+skilet - stir over low heat till
+pink disappears - stir in veg. Cook
+till [illegible] limp - but not brown
+Stir in 8 oz can tomato sauce
+1/2 cup water - 2 Tab. Vinegar
+2 small [illegible] garlic -
+
+Season with 1 teasp salt - 1 teasp
+Dry mustard - 1/4 teasp each of
+oregano & ginger - 3 tabsp Brown
+sugar - dash of Tabasco -
+Boil then simmer 5 min -
+
+To finish -
+Put 4 cups Pork & Beans in
+long Dish - spoon above over
+Beans - Bake  375° - 20 min
+uncovered - top with 1 cup grated
+cheder cheese - Put in oven till melted
+serve Hot -",
+sfrdl_0001_0014_mrs_boyetts_angel_food_cake,sfrdl_0001_0014_mrs_boyetts_angel_food_cake.pdf,Mrs. Boyett's angel food cake,,,,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0014_mrs_boyetts_angel_food_cake.pdf,,,,"Mrs. Boyett's Angel Food Cake
+
+Do not preheat oven 325°
+
+1 1/2 cups cake flour
+2 cups sugar
+1 1/2 cups egg whites
+1/2 teaspoon salt
+1 1/2 teaspoon cream of tartar
+1 1/2 teaspoon vanilla
+1 teaspoon almond extract
+
+Sift flour once before measuring
+and set aside until needed
+to measure sugar and
+divide into 2 equal parts.
+Add 1/2 of sugar to the
+flour and sift the 2 ingredients
+together 4 times. Sift
+the remaining sugar 4 times.
+Do all this before starting
+to beat the egg whites.
+Add salt to egg whites &
+beat until foamy. Add
+cream of tartar & continue
+beating until stiff but not
+dry. Then add 1/2 the
+sugar to the egg whites,
+2 Tablespoons at a time.
+If using an electric
+mixer use low speed to
+
+do this. Use a whisk
+beater if beating by hand.
+Add the flavoring. Do
+not use the electric
+mixer to add the
+remaining ingredients, but
+use a wire whisk egg
+beater. Fold in the flour
+& sugar mixture, adding
+it to egg whites, 2
+Tablespoons at a time. Fold
+in with slow, careful
+strokes. Pour into pan.
+Cut down through cake
+batter with knife
+to remove any large
+bubbles. Bake for about
+65 minutes. When
+cold remove from pan.",
+sfrdl_0001_0015_lemon_frosting,sfrdl_0001_0015_lemon_frosting.pdf,Lemon frosting,,,,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0015_lemon_frosting.pdf,,,,"Lemon Frosting
+
+1/2 cup butter 4 cups sifted sugar
+Dash of salt 4 teasp lemon juice
+1 teaspoon grated lemon rind
+1/3 cup milk (about
+
+Cream butter, salt, and lemon
+rind. Add part of sugar
+gradually, blending after
+each addition. Add remaining
+sugar, alternately with
+lemon juice, then with
+milk, until of right
+consistency to spread.
+Beat after each addition
+until smooth. Makes
+enough to cover tops
+& sides of two 9-inch
+layers.",
+sfrdl_0001_0016_mamas_boiled_custard,sfrdl_0001_0016_mamas_boiled_custard.pdf,Mama's boiled custard,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0016_mamas_boiled_custard.pdf,,,,"Recipe Cards Tear along perforation. Insert into pocket.
+
+Recipe for Mama's Boiled Custard
+1/2 gal. milk 20 marshmallows
+6 eggs Vanilla (guess)
+1 cup sugar
+
+Beat eggs. Gradually add milk
+(a small amount) to the eggs &
+mix. Add the egg mixture to
+the rest of the milk in a large
+pot. Add sugar, marshmallows, &
+vanilla. Heat until it starts
+to thicken. Heat in a
+double boiler.",
+sfrdl_0001_0017_chocolate_oatmeal_cookies,sfrdl_0001_0017_chocolate_oatmeal_cookies.pdf,Chocolate oatmeal cookie,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0017_chocolate_oatmeal_cookies.pdf,,,,"Recipe Cards Tear along perforation. Insert into pocket.
+
+Recipe for Chocolate Oatmeal Cookies
+1 stick butter 2 c sugar
+2 T coco 2/3 cup eva milk
+1/2 c peanut butte 2 cups [illegible] oats
+1 T. vanilla
+
+Mix Marg, sugar, coco, & milk
+Bring to a boil, Boil exa
+5 minutes. Remove from
+heat & add peanut butter
+stir add vanilla & oats.",
+sfrdl_0001_0018_ediths_pound_cake,sfrdl_0001_0018_ediths_pound_cake.pdf,Edith's pound cake,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0018_ediths_pound_cake.pdf,,,,"1 hr 15 min 350°
+Recipe for Edith's Pound Cake
+2 sticks butter 2 c. cake flour
+2 c. sugar 2 t. vanilla
+5 eggs
+
+Beat butter & sugar together for 10
+minutes. Add eggs one at the time
+beating after each addition. Add
+2 cups of sifted cake flour. Then
+add 2 t. vanilla. Beating after
+each addition. Bake at 350°
+for 1 hr to 1 hr 15 min.",
+sfrdl_0001_0019_snicker_doodles,sfrdl_0001_0019_snicker_doodles.pdf,Snicker doodles,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0019_snicker_doodles.pdf,,,,"Recipe Cards Tear along perforation. Insert into pocket.
+
+Recipe for Snicker doodles 400°F 5 doz.
+1 cup soft Margarine 2 3/4 cups sifted flour
+1 1/2 cups sugar 2 tsp. cream of tartar
+2 med. eggs 1 tsp. baking soda
+
+Cream margarine, sugar, & eggs
+thoroughly. Sift together flour, cream
+of tartar, and soda. Stir into batter
+mixture a few tablespoons at a time. Chill.
+Form dough into balls about the size
+of a walnut. Roll each ball in a
+mixture containing 3 Tbs. of sugar
+& 3 tsp. of cinnamon. Place 2"" apart
+on ungreased cookie sheet. 8-10 min.",
+sfrdl_0001_0020_rachels_dressing,sfrdl_0001_0020_rachels_dressing.pdf,Rachel's dressing,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0020_rachels_dressing.pdf,,,,"Recipe Cards Tear along perforation. Insert into pocket.
+
+Recipe for Rachel's Dressing 450°
+
+Make 2 batches of cornbread.
+3 T. Crisco 1 egg
+2 c. Self rising Meal 2 c. milk or buttermilk
+1 c. flour
+Heat Crisco in pan at 450° for cornbread.
+Use oil in cornbread. Let dry out.
+Crumble cornbread, mix in onion & celery
+Sage, Salt, pepper. Heat chicken broth
+& add bulllion with water if needed.
+Beat 4-5 eggs, stir in, heat
+oil in skillet. Cook.
+
+1 T Poultry Seasoning 1 t sage 1/4 t pepper
+[illegible]
+Special Notes Heat 2 boxes Chicken Broth
+not low sodium",
+sfrdl_0001_0021_pork_loin,sfrdl_0001_0021_pork_loin.pdf,Pork loin,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0021_pork_loin.pdf,,,,"Recipe for Pork Loin 325°
+
+Marinate in Adolph's pork marinade,
+overnight. Remove from marinade.
+Put aluminum foil on all sides
+of a roasting pan. Put Loin
+in pan and add 2 cans of
+beef consome. Add salt &
+pepper. Wrap tight.
+Cook for 6-8 hours at 325°
+
+Gravy Remove meat from pan. Pour
+juice in pan. Mix 1/4 - 1/2 cup of
+flour with water. Heat on high until
+thickened. Add pepper. Strain if lumpy.",
+sfrdl_0001_0022_mamas_coconut_pie,sfrdl_0001_0022_mamas_coconut_pie.pdf,Mama's coconut pie,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0022_mamas_coconut_pie.pdf,,,,"Recipe Cards Tear along perforation. Insert into pocket.
+Bake 350°
+Recipe for Mama's Coconut Pie
+
+1 cup sugar 4 marshmallows
+2 T. Flour 1/2 t. vanilla
+2 cups Milk 1/4 or 1/2 pkg. of coconut
+2 eggs
+Baked pie crust.
+
+Combine sugar & flour. Mix eggs
+with some of the milk. Add
+eggs and milk to sugar mixture.
+Add the rest of ingredients
+& cook in a double boiler until thick.
+Bake & then top with meringue.",
+sfrdl_0001_0023_loris_french_dip_sandwich,sfrdl_0001_0023_loris_french_dip_sandwich.pdf,Lori's French dip sandwich,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0023_loris_french_dip_sandwich.pdf,,,,"Recipe for Lori's French Dip Sand.
+4 lb. roast 1/2 t. each rosemary,
+1/2 cup soy sauce; thyme, garlic powder
+1 bay leaf 3-4 pepper corns
+
+Trim roast & put in crock pot. Combine
+everything else & pour over roast.
+Add enough water to almost cover
+Cover & cook on low for at least 7
+hours. Shed roast & skim fat from
+juice. Put provolone cheese on
+sub rolls & toast. Put sandwich
+together & give everyone a bowl
+of juice.",
+sfrdl_0001_0024_french_raisin_pie,sfrdl_0001_0024_french_raisin_pie.pdf,French raisin pie,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0024_french_raisin_pie.pdf,,,,"Recipe Cards Tear along perforation. Insert into pocket.
+
+Recipe for French Raisin Pie 325°
+
+1 stick butter 1 1/2 cups sugar
+3 whole eggs 1/2 t. cloves
+1/2 t. cinnamon 2 T. vinegar
+1/2 tsp. alspice 1 cup chopped nuts
+1 c. white raisins Vanilla flavoring
+1 unbaked 9"" pie shell
+
+Combine all ingredients and pour
+into an uncooked pie shell.
+Bake at 325° for 30 minutes",
+sfrdl_0001_0025_circle_pie,sfrdl_0001_0025_circle_pie.pdf,Circle pie,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0025_circle_pie.pdf,,,,,
+sfrdl_0001_0026_raisin_nut_pie,sfrdl_0001_0026_raisin_nut_pie.pdf,Raisin nut pie,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0026_raisin_nut_pie.pdf,,,,,
+sfrdl_0001_0027_mamas_chess_pie,sfrdl_0001_0027_mamas_chess_pie.pdf,Mama's chess pie,,"Elam, Patricia Thompson",,,,,,,,,,,"Crews, Emma",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0027_mamas_chess_pie.pdf,,,,,
+sfrdl_0001_0028_yeast_rolls,sfrdl_0002_0011_yeast_rolls.pdf,Yeast Rolls,,"Johnson, Laura",1976,1976,,"Handwritten, cursive recipe written on paper for yeast rolls",1 bread pan,10 minutes,Side Dish,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0028_yeast_rolls.pdf,,,"Handwritten, cursive recipe written on paper for yeast rolls",,
+sfrdl_0001_0029_apple_dabble_cake,sfrdl_0002_0012_apple_dabble_cake.pdf,Apple Dabble Cake,,"Johnson, Laura",1988,1988,,Typed recipe for apple dabble cake,1 cake pan,1 hour and 20 minutes,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0029_apple_dabble_cake.pdf,,,Typed recipe for apple dabble cake,,
+sfrdl_0001_0030_apple_butter,sfrdl_0002_0013_apple_butter.pdf,Apple Butter,,"Johnson, Laura",1980,1980,,"Handwritten, cursive recipe written on paper for apple butter",1 dish,,Condiment,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0030_apple_butter.pdf,,,"Handwritten, cursive recipe written on paper for apple butter",,
+sfrdl_0001_0031_impossible_coconut_pie,sfrdl_0002_0014_impossible_coconut_pie.pdf,Impossible Coconut Pie,,"Johnson, Laura",1998,1998,,Typed recipe for impossible coconut pie,1 pie dish,,Dessert,"Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0031_impossible_coconut_pie.pdf,,,Typed recipe for impossible coconut pie,,
+sfrdl_0001_0032_red_pepper_relish,sfrdl_0002_0015_red_pepper_relish.pdf,Red Pepper Relish,,"Johnson, Laura",1987,1987,,"Handwritten, cursive recipe written on paper for red pepper relish",1 dish,,"Condiment, Relish","Salem, Virginia; Salem City, Virginia",,,"Owen, Isabella",Text,application/pdf,eng,pdf,/objects/sfrdl_0001_0032_red_pepper_relish.pdf,,,"Handwritten, cursive recipe written on paper for red pepper relish",,
